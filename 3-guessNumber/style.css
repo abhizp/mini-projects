@@ -14,6 +14,15 @@ body{
 }
 
 #subt {
-    margin-left: 45%;
+    margin-left: 35%;
     margin-top: 10px;
+}
+
+#guess {
+    font-size: 50px;
+}
+
+#guessField {
+    margin-left: 25%;
+    margin-top: 15px;
 }
