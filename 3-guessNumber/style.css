@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    color: black;
+}
+
+#wrapper {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    
+}
+
+#subt {
+    margin-left: 45%;
+    margin-top: 10px;
+}
